@@ -10,4 +10,7 @@ public class Index {
     public void getMenu(){
 
     }
+    public String getInfo(){
+        return "test3";
+    }
 }
